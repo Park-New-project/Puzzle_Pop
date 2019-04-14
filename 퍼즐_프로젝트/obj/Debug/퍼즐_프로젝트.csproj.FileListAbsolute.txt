@@ -1,0 +1,28 @@
+c:\users\com-603\documents\visual studio 2015\Projects\퍼즐_프로젝트\퍼즐_프로젝트\bin\Debug\퍼즐_프로젝트.exe.config
+c:\users\com-603\documents\visual studio 2015\Projects\퍼즐_프로젝트\퍼즐_프로젝트\bin\Debug\퍼즐_프로젝트.exe
+c:\users\com-603\documents\visual studio 2015\Projects\퍼즐_프로젝트\퍼즐_프로젝트\bin\Debug\퍼즐_프로젝트.pdb
+c:\users\com-603\documents\visual studio 2015\Projects\퍼즐_프로젝트\퍼즐_프로젝트\obj\Debug\퍼즐_프로젝트.csprojResolveAssemblyReference.cache
+c:\users\com-603\documents\visual studio 2015\Projects\퍼즐_프로젝트\퍼즐_프로젝트\obj\Debug\퍼즐_프로젝트.Form1.resources
+c:\users\com-603\documents\visual studio 2015\Projects\퍼즐_프로젝트\퍼즐_프로젝트\obj\Debug\퍼즐_프로젝트.Properties.Resources.resources
+c:\users\com-603\documents\visual studio 2015\Projects\퍼즐_프로젝트\퍼즐_프로젝트\obj\Debug\퍼즐_프로젝트.csproj.GenerateResource.Cache
+c:\users\com-603\documents\visual studio 2015\Projects\퍼즐_프로젝트\퍼즐_프로젝트\obj\Debug\퍼즐_프로젝트.exe
+c:\users\com-603\documents\visual studio 2015\Projects\퍼즐_프로젝트\퍼즐_프로젝트\obj\Debug\퍼즐_프로젝트.pdb
+C:\Users\user\Desktop\사랑\퍼즐_프로젝트\퍼즐_프로젝트\bin\Debug\퍼즐_프로젝트.exe.config
+C:\Users\user\Desktop\사랑\퍼즐_프로젝트\퍼즐_프로젝트\bin\Debug\퍼즐_프로젝트.exe
+C:\Users\user\Desktop\사랑\퍼즐_프로젝트\퍼즐_프로젝트\bin\Debug\퍼즐_프로젝트.pdb
+C:\Users\user\Desktop\사랑\퍼즐_프로젝트\퍼즐_프로젝트\obj\Debug\퍼즐_프로젝트.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\사랑\퍼즐_프로젝트\퍼즐_프로젝트\obj\Debug\퍼즐_프로젝트.Form1.resources
+C:\Users\user\Desktop\사랑\퍼즐_프로젝트\퍼즐_프로젝트\obj\Debug\퍼즐_프로젝트.Properties.Resources.resources
+C:\Users\user\Desktop\사랑\퍼즐_프로젝트\퍼즐_프로젝트\obj\Debug\퍼즐_프로젝트.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\사랑\퍼즐_프로젝트\퍼즐_프로젝트\obj\Debug\퍼즐_프로젝트.exe
+C:\Users\user\Desktop\사랑\퍼즐_프로젝트\퍼즐_프로젝트\obj\Debug\퍼즐_프로젝트.pdb
+C:\Users\OWNER\Desktop\PARK\PROJECTS\3. 퍼즐_프로젝트\퍼즐_프로젝트\bin\Debug\퍼즐_프로젝트.exe.config
+C:\Users\OWNER\Desktop\PARK\PROJECTS\3. 퍼즐_프로젝트\퍼즐_프로젝트\bin\Debug\퍼즐_프로젝트.exe
+C:\Users\OWNER\Desktop\PARK\PROJECTS\3. 퍼즐_프로젝트\퍼즐_프로젝트\bin\Debug\퍼즐_프로젝트.pdb
+C:\Users\OWNER\Desktop\PARK\PROJECTS\3. 퍼즐_프로젝트\퍼즐_프로젝트\obj\Debug\퍼즐_프로젝트.csprojAssemblyReference.cache
+C:\Users\OWNER\Desktop\PARK\PROJECTS\3. 퍼즐_프로젝트\퍼즐_프로젝트\obj\Debug\퍼즐_프로젝트.Form1.resources
+C:\Users\OWNER\Desktop\PARK\PROJECTS\3. 퍼즐_프로젝트\퍼즐_프로젝트\obj\Debug\퍼즐_프로젝트.Properties.Resources.resources
+C:\Users\OWNER\Desktop\PARK\PROJECTS\3. 퍼즐_프로젝트\퍼즐_프로젝트\obj\Debug\퍼즐_프로젝트.csproj.GenerateResource.cache
+C:\Users\OWNER\Desktop\PARK\PROJECTS\3. 퍼즐_프로젝트\퍼즐_프로젝트\obj\Debug\퍼즐_프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Desktop\PARK\PROJECTS\3. 퍼즐_프로젝트\퍼즐_프로젝트\obj\Debug\퍼즐_프로젝트.exe
+C:\Users\OWNER\Desktop\PARK\PROJECTS\3. 퍼즐_프로젝트\퍼즐_프로젝트\obj\Debug\퍼즐_프로젝트.pdb
