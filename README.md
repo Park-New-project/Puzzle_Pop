@@ -1,3 +1,4 @@
 # Puzzle_Pop
 
-<img href="Images/1.PNG"></img>
+<h3>Main - Game Start</h3>
+<img src="/Images/1.PNG" width="60%" height="60%">
